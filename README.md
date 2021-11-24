@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sage-Cat
 - 👀 I’m interested in system programming
-- 🌱 I’m currently learning C++, multithreading
-- 💞️ I’m looking to collaborate on interesting open source projects
+- 🌱 I’m currently learning C++, artificial intelligence
 - 📫 How to reach me sagecatbox@gmail.com
 
 <!---
